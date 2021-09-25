@@ -1,7 +1,7 @@
 name: avatar
-description: A new Flutter package project.
-version: 0.0.1
-homepage:
+description: Choosing a profile picture has never been easier or better or magical like this 
+version: 0.1.0
+homepage: https://pkg.elmobark.com/avatar
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
